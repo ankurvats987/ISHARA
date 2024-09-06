@@ -182,3 +182,4 @@ wheel==0.44.0
 whisper_mic==1.4.4
 wrapt==1.16.0
 zipp==3.20.1
+gunicorn==23.0.0
